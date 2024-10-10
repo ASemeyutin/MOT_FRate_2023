@@ -1,0 +1,7 @@
+shiny
+pandas
+geopandas
+folium
+matplotlib
+mapclassify
+pathlib
